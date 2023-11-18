@@ -1,7 +1,7 @@
 {
   "name": "el_trebol_de_villa_luro",
   "version": "1.0.0",
-  "description": "Proyecto Final de Desarrollo Web de Coderhouse. El Trébol es un Resto Bar y el fin del sitio web es sobre información del mismo",
+  "description": "Proyecto Final de Desarrollo Web de Coderhouse. información del mismo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
